@@ -20,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tporchilai"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "http://github.com/tporchilai/LabEx.git",
+    "accountId": "ed99fae3-e78e-4cc4-afdc-cfe76b40c8d6"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -32,8 +44,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Array1.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.arithmetic.executor": "Run",
+    "Application.datatype.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   },
   "keyToStringList": {
@@ -44,7 +59,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.countinecondition">
     <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array1" />
       <module name="LabEx" />
@@ -52,8 +67,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2" />
+      <module name="LabEx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arithmetic" />
+      <module name="LabEx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countinecondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countinecondition" />
+      <module name="LabEx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="datatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype" />
+      <module name="LabEx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countinecondition" />
+        <item itemvalue="Application.arithmetic" />
+        <item itemvalue="Application.Array2" />
+        <item itemvalue="Application.datatype" />
         <item itemvalue="Application.Array1" />
       </list>
     </recent_temporary>
@@ -75,11 +122,37 @@
       <option name="project" value="LOCAL" />
       <updated>1716045300880</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="datatypes">
+      <option name="closed" value="true" />
+      <created>1716046227694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716046227694</updated>
+    </task>
+    <task id="LOCAL-00003" summary="datatypes">
+      <option name="closed" value="true" />
+      <created>1716046375313</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716046375313</updated>
+    </task>
+    <task id="LOCAL-00004" summary="arithmetic operators using switch">
+      <option name="closed" value="true" />
+      <created>1716046672759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716046672759</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Array to find max salary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array to find max salary" />
+    <MESSAGE value="datatypes" />
+    <MESSAGE value="arithmetic operators using switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="arithmetic operators using switch" />
   </component>
 </project>
