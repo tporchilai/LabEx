@@ -1,3 +1,5 @@
+package Array;
+
 public class matrix {
     public static void main(String[] args) {
         int [] []array_2d = new int[3][3];

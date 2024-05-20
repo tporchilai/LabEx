@@ -1,3 +1,5 @@
+package datatypes_ex;
+
 public class datatype {
     public static void main(String[] args) {
         byte  a1 = -11;

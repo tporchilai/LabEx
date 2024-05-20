@@ -1,3 +1,5 @@
+package Functions;
+
 public class functions6 {
     public static void main(String[] args) {
        int a= intf(23);

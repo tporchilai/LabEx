@@ -1,3 +1,5 @@
+package Functions;
+
 public class functions4 {
     public static void main(String[] args) {
 saySomething();    //no return no parameters

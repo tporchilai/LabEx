@@ -1,3 +1,5 @@
+package Functions;
+
 public class functions5 {
     public static void main(String[] args) {
          f1();

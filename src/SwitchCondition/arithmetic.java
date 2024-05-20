@@ -1,3 +1,5 @@
+package SwitchCondition;
+
 import java.util.Scanner;
 
 public class arithmetic {

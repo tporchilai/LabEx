@@ -1,3 +1,5 @@
+package IfLoop;
+
 import java.util.Scanner;
 
 public class gradecalculator {

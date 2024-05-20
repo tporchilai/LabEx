@@ -1,3 +1,5 @@
+package classandobjects;
+
 public class class1 {
     public static void main(String[] args) {
 System.out.println("It's about my Self");

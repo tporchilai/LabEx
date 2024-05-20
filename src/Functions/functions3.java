@@ -1,3 +1,5 @@
+package Functions;
+
 public class functions3 {
     public static void main(String[] args) {
          int r1=  sum();

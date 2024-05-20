@@ -1,3 +1,5 @@
+package classandobjects;
+
 public class Person {
     // Attributes
     String name;

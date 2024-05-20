@@ -1,3 +1,5 @@
+package IfLoop;
+
 public class infiniteloop {
     public static void main(String[] args) {
         final boolean b1=true;

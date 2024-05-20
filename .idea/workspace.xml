@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -20,21 +21,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tporchilai"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tporchilai&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "http://github.com/tporchilai/LabEx.git",
-    "accountId": "ed99fae3-e78e-4cc4-afdc-cfe76b40c8d6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;http://github.com/tporchilai/LabEx.git&quot;,
+    &quot;accountId&quot;: &quot;ed99fae3-e78e-4cc4-afdc-cfe76b40c8d6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ge4mnV9lV5TXyiasttUd9iACO4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,9 +49,39 @@
   "keyToString": {
     "Application.Array1.executor": "Run",
     "Application.Array2.executor": "Run",
+    "Application.Array3.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
     "Application.arithmetic.executor": "Run",
+    "Application.atb6xob.executor": "Run",
+    "Application.calculator.executor": "Run",
+    "Application.class1.executor": "Run",
+    "Application.countinecondition.executor": "Run",
+    "Application.cubemath.executor": "Run",
     "Application.datatype.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.functions1.executor": "Run",
+    "Application.functions2.executor": "Run",
+    "Application.functions3.executor": "Debug",
+    "Application.functions4.executor": "Run",
+    "Application.functions5.executor": "Run",
+    "Application.functions6.executor": "Run",
+    "Application.gradecalculator.executor": "Run",
+    "Application.ifloop.executor": "Run",
+    "Application.infiniteloop.executor": "Run",
+    "Application.leapyear.executor": "Run",
+    "Application.matrix.executor": "Run",
+    "Application.max.executor": "Run",
+    "Application.maxif.executor": "Run",
+    "Application.maxnum.executor": "Run",
+    "Application.oddeven.executor": "Run",
+    "Application.operators.executor": "Run",
+    "Application.positive.executor": "Run",
+    "Application.starprint.executor": "Run",
+    "Application.string.executor": "Run",
+    "Application.switchconditions.executor": "Run",
+    "Application.table5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   },
@@ -59,49 +93,73 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.countinecondition">
-    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array1" />
-      <module name="LabEx" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.maxnum">
     <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2" />
+      <option name="MAIN_CLASS_NAME" value="Array.Array2" />
+      <module name="LabEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Array3" />
+      <module name="LabEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atb6xob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classandobjects.atb6xob" />
+      <module name="LabEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classandobjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="class1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classandobjects.class1" />
       <module name="LabEx" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arithmetic" />
+    <configuration name="maxnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.maxnum" />
       <module name="LabEx" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="countinecondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="countinecondition" />
-      <module name="LabEx" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="datatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatype" />
-      <module name="LabEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.countinecondition" />
-        <item itemvalue="Application.arithmetic" />
+        <item itemvalue="Application.maxnum" />
+        <item itemvalue="Application.Array3" />
         <item itemvalue="Application.Array2" />
-        <item itemvalue="Application.datatype" />
-        <item itemvalue="Application.Array1" />
+        <item itemvalue="Application.atb6xob" />
+        <item itemvalue="Application.class1" />
       </list>
     </recent_temporary>
   </component>
@@ -146,13 +204,275 @@
       <option name="project" value="LOCAL" />
       <updated>1716046672759</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="arithmetic operators using switch">
+      <option name="closed" value="true" />
+      <created>1716046768664</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716046768664</updated>
+    </task>
+    <task id="LOCAL-00006" summary="continue condition using if">
+      <option name="closed" value="true" />
+      <created>1716046830602</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716046830602</updated>
+    </task>
+    <task id="LOCAL-00007" summary="cube root of the x y z values">
+      <option name="closed" value="true" />
+      <created>1716047072074</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716047072074</updated>
+    </task>
+    <task id="LOCAL-00008" summary="find odd and even numbers using if conditions">
+      <option name="closed" value="true" />
+      <created>1716047191274</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716047191274</updated>
+    </task>
+    <task id="LOCAL-00009" summary="factorial of the given number">
+      <option name="closed" value="true" />
+      <created>1716047362394</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716047362394</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fizz --&gt; 3   buzz --&gt; 5 fizzbuzz for number / 3&amp;5">
+      <option name="closed" value="true" />
+      <created>1716047546842</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716047546842</updated>
+    </task>
+    <task id="LOCAL-00011" summary="grade calculation using nested if ese if">
+      <option name="closed" value="true" />
+      <created>1716047671336</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716047671336</updated>
+    </task>
+    <task id="LOCAL-00012" summary="if loop">
+      <option name="closed" value="true" />
+      <created>1716047787474</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716047787474</updated>
+    </task>
+    <task id="LOCAL-00013" summary="infinite if loop">
+      <option name="closed" value="true" />
+      <created>1716047900898</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716047900898</updated>
+    </task>
+    <task id="LOCAL-00014" summary="leap year using if">
+      <option name="closed" value="true" />
+      <created>1716048086890</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716048086890</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2d array">
+      <option name="closed" value="true" />
+      <created>1716048178434</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716048178434</updated>
+    </task>
+    <task id="LOCAL-00016" summary="max of 3 numbers using trinary operators">
+      <option name="closed" value="true" />
+      <created>1716048302388</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716048302388</updated>
+    </task>
+    <task id="LOCAL-00017" summary="max of 2 number using if loop">
+      <option name="closed" value="true" />
+      <created>1716048389955</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716048389955</updated>
+    </task>
+    <task id="LOCAL-00018" summary="increment and decrement operators">
+      <option name="closed" value="true" />
+      <created>1716048479347</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1716048479347</updated>
+    </task>
+    <task id="LOCAL-00019" summary="positive and negative operators">
+      <option name="closed" value="true" />
+      <created>1716048580379</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1716048580379</updated>
+    </task>
+    <task id="LOCAL-00020" summary="printing star">
+      <option name="closed" value="true" />
+      <created>1716048667411</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1716048667411</updated>
+    </task>
+    <task id="LOCAL-00021" summary="string lower to upper, length, char at">
+      <option name="closed" value="true" />
+      <created>1716049052205</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1716049052205</updated>
+    </task>
+    <task id="LOCAL-00022" summary="days of the week using switch conditon">
+      <option name="closed" value="true" />
+      <created>1716049215523</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1716049215523</updated>
+    </task>
+    <task id="LOCAL-00023" summary="calling the non-return functions">
+      <option name="closed" value="true" />
+      <created>1716083816322</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1716083816322</updated>
+    </task>
+    <task id="LOCAL-00024" summary="calling the non-return functions within the loop">
+      <option name="closed" value="true" />
+      <created>1716084846150</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1716084846150</updated>
+    </task>
+    <task id="LOCAL-00025" summary="calling the return functions with parameters">
+      <option name="closed" value="true" />
+      <created>1716086743999</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1716086743999</updated>
+    </task>
+    <task id="LOCAL-00026" summary="calculator using functions">
+      <option name="closed" value="true" />
+      <created>1716108364680</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1716108364680</updated>
+    </task>
+    <task id="LOCAL-00027" summary="functions with and without parameters">
+      <option name="closed" value="true" />
+      <created>1716112817147</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1716112817147</updated>
+    </task>
+    <task id="LOCAL-00028" summary="functions with array string parameter">
+      <option name="closed" value="true" />
+      <created>1716139046816</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1716139046816</updated>
+    </task>
+    <task id="LOCAL-00029" summary="functions with datatypes">
+      <option name="closed" value="true" />
+      <created>1716139906788</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1716139906788</updated>
+    </task>
+    <task id="LOCAL-00030" summary="class and objects">
+      <option name="closed" value="true" />
+      <created>1716187256165</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1716187256165</updated>
+    </task>
+    <task id="LOCAL-00031" summary="arranged">
+      <option name="closed" value="true" />
+      <created>1716188559198</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1716188559198</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Array marks listed">
+      <option name="closed" value="true" />
+      <created>1716191311563</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1716191311563</updated>
+    </task>
+    <task id="LOCAL-00033" summary="double the array">
+      <option name="closed" value="true" />
+      <created>1716191566791</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1716191566791</updated>
+    </task>
+    <task id="LOCAL-00034" summary="maximum number in the array">
+      <option name="closed" value="true" />
+      <created>1716199810678</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1716199810678</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Array to find max salary" />
-    <MESSAGE value="datatypes" />
-    <MESSAGE value="arithmetic operators using switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="arithmetic operators using switch" />
+    <MESSAGE value="fizz --&gt; 3   buzz --&gt; 5 fizzbuzz for number / 3&amp;5" />
+    <MESSAGE value="grade calculation using nested if ese if" />
+    <MESSAGE value="if loop" />
+    <MESSAGE value="infinite if loop" />
+    <MESSAGE value="leap year using if" />
+    <MESSAGE value="2d array" />
+    <MESSAGE value="max of 3 numbers using trinary operators" />
+    <MESSAGE value="max of 2 number using if loop" />
+    <MESSAGE value="increment and decrement operators" />
+    <MESSAGE value="positive and negative operators" />
+    <MESSAGE value="printing star" />
+    <MESSAGE value="string lower to upper, length, char at" />
+    <MESSAGE value="days of the week using switch conditon" />
+    <MESSAGE value="calling the non-return functions" />
+    <MESSAGE value="calling the non-return functions within the loop" />
+    <MESSAGE value="calling the return functions with parameters" />
+    <MESSAGE value="calculator using functions" />
+    <MESSAGE value="functions with and without parameters" />
+    <MESSAGE value="functions with array string parameter" />
+    <MESSAGE value="functions with datatypes" />
+    <MESSAGE value="class and objects" />
+    <MESSAGE value="arranged" />
+    <MESSAGE value="Array marks listed" />
+    <MESSAGE value="double the array" />
+    <MESSAGE value="maximum number in the array" />
+    <option name="LAST_COMMIT_MESSAGE" value="maximum number in the array" />
   </component>
 </project>
