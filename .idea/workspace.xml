@@ -33,6 +33,9 @@
     &quot;accountId&quot;: &quot;ed99fae3-e78e-4cc4-afdc-cfe76b40c8d6&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-22.0.1/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -93,7 +96,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.maxnum">
+  <component name="RunManager" selected="Application.string1">
     <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Array2" />
       <module name="LabEx" />
@@ -133,13 +136,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="class1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classandobjects.class1" />
-      <module name="LabEx" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="maxnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.maxnum" />
       <module name="LabEx" />
@@ -153,13 +149,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="string1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.string1" />
+      <module name="LabEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.string1" />
         <item itemvalue="Application.maxnum" />
         <item itemvalue="Application.Array3" />
         <item itemvalue="Application.Array2" />
         <item itemvalue="Application.atb6xob" />
-        <item itemvalue="Application.class1" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716199810678</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="maximum number in the array">
+      <option name="closed" value="true" />
+      <created>1716200690050</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1716200690050</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -474,5 +491,15 @@
     <MESSAGE value="double the array" />
     <MESSAGE value="maximum number in the array" />
     <option name="LAST_COMMIT_MESSAGE" value="maximum number in the array" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.jdks/openjdk-22.0.1/lib/src.zip!/java.base/java/lang/Object.java</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
