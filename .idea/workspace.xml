@@ -54,10 +54,12 @@
     "Application.Array2.executor": "Run",
     "Application.Array3.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
+    "Application.areAnagrams.executor": "Run",
     "Application.arithmetic.executor": "Run",
     "Application.atb6xob.executor": "Run",
     "Application.calculator.executor": "Run",
     "Application.class1.executor": "Run",
+    "Application.constructor2.executor": "Run",
     "Application.countinecondition.executor": "Run",
     "Application.cubemath.executor": "Run",
     "Application.datatype.executor": "Run",
@@ -81,6 +83,8 @@
     "Application.positive.executor": "Run",
     "Application.starprint.executor": "Run",
     "Application.string.executor": "Run",
+    "Application.string1.executor": "Run",
+    "Application.string2.executor": "Run",
     "Application.switchconditions.executor": "Run",
     "Application.table5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -96,13 +100,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.string1">
-    <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array2" />
+  <component name="RunManager" selected="Application.constructor2">
+    <configuration name="areAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.areAnagrams" />
       <module name="LabEx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,25 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array3" />
+    <configuration name="constructor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.constructor2" />
       <module name="LabEx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="atb6xob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classandobjects.atb6xob" />
-      <module name="LabEx" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classandobjects.*" />
+          <option name="PATTERN" value="constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,13 +153,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="string2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.string2" />
+      <module name="LabEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.constructor2" />
+        <item itemvalue="Application.areAnagrams" />
+        <item itemvalue="Application.string2" />
         <item itemvalue="Application.string1" />
         <item itemvalue="Application.maxnum" />
-        <item itemvalue="Application.Array3" />
-        <item itemvalue="Application.Array2" />
-        <item itemvalue="Application.atb6xob" />
       </list>
     </recent_temporary>
   </component>
@@ -461,14 +465,50 @@
       <option name="project" value="LOCAL" />
       <updated>1716200690050</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="string reverse">
+      <option name="closed" value="true" />
+      <created>1716201965249</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1716201965249</updated>
+    </task>
+    <task id="LOCAL-00037" summary="string reverse">
+      <option name="closed" value="true" />
+      <created>1716201974196</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1716201974196</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Duplicate strings">
+      <option name="closed" value="true" />
+      <created>1716203258278</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1716203258294</updated>
+    </task>
+    <task id="LOCAL-00039" summary="check the string is anagram">
+      <option name="closed" value="true" />
+      <created>1716566297107</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1716566297107</updated>
+    </task>
+    <task id="LOCAL-00040" summary="constructor calling">
+      <option name="closed" value="true" />
+      <created>1716645376475</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1716645376475</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fizz --&gt; 3   buzz --&gt; 5 fizzbuzz for number / 3&amp;5" />
-    <MESSAGE value="grade calculation using nested if ese if" />
-    <MESSAGE value="if loop" />
-    <MESSAGE value="infinite if loop" />
     <MESSAGE value="leap year using if" />
     <MESSAGE value="2d array" />
     <MESSAGE value="max of 3 numbers using trinary operators" />
@@ -490,7 +530,11 @@
     <MESSAGE value="Array marks listed" />
     <MESSAGE value="double the array" />
     <MESSAGE value="maximum number in the array" />
-    <option name="LAST_COMMIT_MESSAGE" value="maximum number in the array" />
+    <MESSAGE value="string reverse" />
+    <MESSAGE value="Duplicate strings" />
+    <MESSAGE value="check the string is anagram" />
+    <MESSAGE value="constructor calling" />
+    <option name="LAST_COMMIT_MESSAGE" value="constructor calling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
