@@ -1,4 +1,4 @@
-package inheritances;
+package inheritances.single;
 
 public class run {
     public static void main(String[] args) {

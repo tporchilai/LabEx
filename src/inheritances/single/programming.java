@@ -1,4 +1,4 @@
-package inheritances;
+package inheritances.single;
 
 public class programming {
     String lang_Name;

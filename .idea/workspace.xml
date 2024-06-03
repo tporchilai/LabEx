@@ -53,7 +53,9 @@
     "Application.Array1.executor": "Run",
     "Application.Array2.executor": "Run",
     "Application.Array3.executor": "Run",
+    "Application.Dog.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
+    "Application.animal.executor": "Run",
     "Application.areAnagrams.executor": "Run",
     "Application.arithmetic.executor": "Run",
     "Application.atb6xob.executor": "Run",
@@ -62,6 +64,7 @@
     "Application.class1.executor": "Run",
     "Application.constructor2.executor": "Run",
     "Application.countinecondition.executor": "Run",
+    "Application.criminal.executor": "Run",
     "Application.cubemath.executor": "Run",
     "Application.datatype.executor": "Run",
     "Application.factorial.executor": "Run",
@@ -74,18 +77,29 @@
     "Application.gradecalculator.executor": "Run",
     "Application.ifloop.executor": "Run",
     "Application.infiniteloop.executor": "Run",
+    "Application.java.executor": "Run",
+    "Application.jrPolice.executor": "Run",
     "Application.leapyear.executor": "Run",
     "Application.matrix.executor": "Run",
     "Application.max.executor": "Run",
     "Application.maxif.executor": "Run",
     "Application.maxnum.executor": "Run",
+    "Application.methodOverriding.executor": "Run",
+    "Application.methodoverloading.executor": "Run",
     "Application.oddeven.executor": "Run",
     "Application.operators.executor": "Run",
     "Application.positive.executor": "Run",
+    "Application.run.executor": "Run",
+    "Application.runner.executor": "Run",
+    "Application.runner1.executor": "Run",
+    "Application.runnerclass.executor": "Run",
+    "Application.school$student.executor": "Run",
+    "Application.school.executor": "Run",
     "Application.starprint.executor": "Run",
     "Application.string.executor": "Run",
     "Application.string1.executor": "Run",
     "Application.string2.executor": "Run",
+    "Application.superkey.run.executor": "Run",
     "Application.switchconditions.executor": "Run",
     "Application.table5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -101,13 +115,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.bankdetailsrunner">
-    <configuration name="areAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.areAnagrams" />
+  <component name="RunManager" selected="Application.methodOverriding">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="superkey.Dog" />
       <module name="LabEx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="superkey.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bankdetailsrunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructors.bankdetailsrunner" />
+    <configuration name="criminal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="accessmodifier.thief1.criminal" />
       <module name="LabEx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructors.*" />
+          <option name="PATTERN" value="accessmodifier.thief1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="constructor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructors.constructor2" />
+    <configuration name="jrPolice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="accessmodifier.cop.jrPolice" />
       <module name="LabEx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructors.*" />
+          <option name="PATTERN" value="accessmodifier.cop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.string1" />
+    <configuration name="methodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.methodOverriding" />
       <module name="LabEx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.string2" />
+    <configuration name="methodoverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.methodoverloading" />
       <module name="LabEx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.bankdetailsrunner" />
-        <item itemvalue="Application.constructor2" />
-        <item itemvalue="Application.areAnagrams" />
-        <item itemvalue="Application.string2" />
-        <item itemvalue="Application.string1" />
+        <item itemvalue="Application.methodOverriding" />
+        <item itemvalue="Application.methodoverloading" />
+        <item itemvalue="Application.jrPolice" />
+        <item itemvalue="Application.criminal" />
+        <item itemvalue="Application.Dog" />
       </list>
     </recent_temporary>
   </component>
@@ -514,17 +528,74 @@
       <option name="project" value="LOCAL" />
       <updated>1716735082612</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="constructor overloading">
+      <option name="closed" value="true" />
+      <created>1716744805448</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1716744805448</updated>
+    </task>
+    <task id="LOCAL-00043" summary="constructor overloading">
+      <option name="closed" value="true" />
+      <created>1716744860713</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1716744860713</updated>
+    </task>
+    <task id="LOCAL-00044" summary="single inheritance">
+      <option name="closed" value="true" />
+      <created>1716811701948</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1716811701948</updated>
+    </task>
+    <task id="LOCAL-00045" summary="multilevel inheritance">
+      <option name="closed" value="true" />
+      <created>1716814051634</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1716814051634</updated>
+    </task>
+    <task id="LOCAL-00046" summary="hierachical inheritance">
+      <option name="closed" value="true" />
+      <created>1717265881682</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1717265881682</updated>
+    </task>
+    <task id="LOCAL-00047" summary="constructor inheritance">
+      <option name="closed" value="true" />
+      <created>1717323587069</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1717323587069</updated>
+    </task>
+    <task id="LOCAL-00048" summary="super key with channing constructor">
+      <option name="closed" value="true" />
+      <created>1717346357938</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1717346357938</updated>
+    </task>
+    <task id="LOCAL-00049" summary="access modifier">
+      <option name="closed" value="true" />
+      <created>1717396087208</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1717396087208</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2d array" />
-    <MESSAGE value="max of 3 numbers using trinary operators" />
-    <MESSAGE value="max of 2 number using if loop" />
-    <MESSAGE value="increment and decrement operators" />
-    <MESSAGE value="positive and negative operators" />
-    <MESSAGE value="printing star" />
-    <MESSAGE value="string lower to upper, length, char at" />
     <MESSAGE value="days of the week using switch conditon" />
     <MESSAGE value="calling the non-return functions" />
     <MESSAGE value="calling the non-return functions within the loop" />
@@ -543,7 +614,14 @@
     <MESSAGE value="check the string is anagram" />
     <MESSAGE value="constructor calling" />
     <MESSAGE value="constructor default and parameterized constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="constructor default and parameterized constructor" />
+    <MESSAGE value="constructor overloading" />
+    <MESSAGE value="single inheritance" />
+    <MESSAGE value="multilevel inheritance" />
+    <MESSAGE value="hierachical inheritance" />
+    <MESSAGE value="constructor inheritance" />
+    <MESSAGE value="super key with channing constructor" />
+    <MESSAGE value="access modifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="access modifier" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -551,25 +629,6 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$USER_HOME$/.jdks/openjdk-22.0.1/lib/src.zip!/java.base/java/lang/Object.java</url>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/constructors/bankdetailsrunner.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/constructors/bankdetailsrunner.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/constructors/bankdetailsrunner.java</url>
-          <line>3</line>
-          <properties class="constructors.bankdetailsrunner" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
